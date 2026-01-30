@@ -53,7 +53,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(204, 25);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Desktop Sticker 1.0.0";
+            this.label1.Text = "Desktop Sticker 1.0.1";
             // 
             // label3
             // 

@@ -3,7 +3,7 @@
 ; Non-commercial use only
 
 #define MyAppName "Desktop Sticker"
-#define MyAppVersion "1.0.0"
+#define MyAppVersion "1.0.1"
 #define MyAppPublisher "Kyumin Nam"
 #define MyAppURL "https://github.com/miniprime1/desktopsticker/"
 #define MyAppExeName "DesktopSticker.exe"
