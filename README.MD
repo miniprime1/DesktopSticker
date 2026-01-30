@@ -28,17 +28,23 @@ Desktop Sticker is a lightweight WPF application that brings your desktop to lif
 Whether you want a cute companion watching over your work or a simple decorative sticker, this app handles it with modern Windows aesthetics.
 
 
-
 ## Getting Started
 
-You can install Desktop Sticker _via_ provided installer.
+You can install Desktop Sticker in Microsoft Store or using provided installer through GitHub releases.
 
-### Installation
+### Installation from Microsoft Store
 
-1. Get the latest installer from the [Releases Page](https://github.com/miniprime1/DesktopSticker/releases) and install with it.
+Desktop Sticker is now available in Microsoft Store.
 
+<a href="https://apps.microsoft.com/detail/9p0dltbqspvp?hl=en-us&gl=US">
+  <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="180" alt="Get it from Microsoft Store"/>
+</a>
 
-> System Requirements: Windows 10/11 and .NET Framework 4.8.1.
+### Installation from GitHub Releases
+
+You can also get the latest installer from the [Releases page](https://github.com/miniprime1/DesktopSticker/releases). 
+
+Contains extra illustraitions downloaded from [here](https://kei.pronama.jp/download/).
 
 
 ## Build from Source
