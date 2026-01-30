@@ -59,7 +59,7 @@ namespace DesktopSticker {
                 UpdateStickerImage(savedPath);
             }
             else {
-                Properties.Settings.Default.SavedImagePath = "./maomao.png";
+                Properties.Settings.Default.SavedImagePath = "./default.png";
                 Properties.Settings.Default.Save();
             }
 
